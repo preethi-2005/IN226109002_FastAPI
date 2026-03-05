@@ -79,3 +79,4 @@ def get_deals():
         "best_deal": cheapest,
         "premium_pick": expensive
     }
+
